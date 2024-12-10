@@ -44,7 +44,7 @@ const Navbar = () => {
           }}
         >
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
-            Minh &nbsp;
+            Disha &nbsp;
             <span className="lg:block hidden"> | Software Engineer</span>
           </p>
         </Link>
